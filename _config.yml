@@ -7,17 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            The Bitter Coffee
+tagline:          Fun drawings by a diabetic!
+url:              http://thebittercoffee.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Ryan Sherlock
+  url:            https://imsherlock.com/
+  email:          ryan.m.sherlock@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           github.com/imsherlock/tbc.github.io
