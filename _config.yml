@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            The Bitter Coffee
-tagline:          Fun drawings by a diabetic!
+tagline:          Fun drawings by an engineer!
 url:              http://thebittercoffee.com
 paginate:         1
 baseurl:          /
